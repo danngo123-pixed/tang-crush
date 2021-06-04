@@ -3,9 +3,9 @@ const CONFIG = {
     introDesc: `Tự nhiên trên trái đất này 
     xuất hiện một người siêu siêuuuu cuteeeee
     siêuu diêuuu dễ thương
-    em biết là ai hong,
+    em biết là ai hong',
     btnIntro: 'hihi',
-    title: ' và anh đã yêu em ngay từ cái nhìn đầu tiên 😙',
+    title: 'and yêu em ngay từ cái nhìn đầu tiên 😙',
     desc: 'Phải chăng anh đã say ngay từ lúc thấy nụ cười ấy ',
     btnYes: 'Vẫn cứ là thích em <33',
     btnNo: 'Không, em iu à :3',
